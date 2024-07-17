@@ -17,3 +17,10 @@ Console.WriteLine(product1);
 Console.WriteLine(product2);
 Console.WriteLine(product3);
 
+int quotioent = bas / sab; 
+Console.WriteLine(quotioent);
+
+fas = 6; 
+double stick = bas / fas;
+Console.WriteLine(stick);
+
